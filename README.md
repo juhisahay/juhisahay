@@ -2,10 +2,12 @@
 
 About me:
 
-😄 Pronouns: she/her
+
+😄 Pronouns: she/her  
 🌱 I’m currently learning: Python, SQL, data analysis and visualization, and front-end web development  
 👯 I’m looking to collaborate on: Beginner-friendly data science projects and anything that helps me grow my skills!  
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/juhi-sahay)  
+
 
 I'm actively building with data and exploring web development on the side, which I'll be sharing here soon!
 <!--
