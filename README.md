@@ -5,7 +5,7 @@ About me:
 
 😄 Pronouns: she/her  
 🌱 I’m currently learning: Python, SQL, data analysis and visualization, and front-end web development  
-👯 I’m looking to collaborate on: Beginner-friendly data science projects and anything that helps me grow my skills!
+👯 I’m looking to collaborate on: Beginner-friendly data science projects and anything that helps me grow my skills!  
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/juhi-sahay)  
 
 🔭 **Career goals**: Aspiring to work in data science and statistics and gain hands on experience in these fields
