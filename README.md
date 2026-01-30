@@ -4,7 +4,7 @@ About me:
 
 
 😄 Pronouns: she/her  
-🌱 I’m currently learning: Python, data analysis and visualization
+🌱 I’m currently learning: Python, data analysis and visualization                                    
 👯 I’m looking to collaborate on: data science projects and anything that helps me grow my skills!  
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/juhi-sahay)  
 
